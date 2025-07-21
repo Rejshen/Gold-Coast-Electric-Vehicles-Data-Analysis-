@@ -16,7 +16,7 @@ This project explores electric vehicle (EV) trends in the Gold Coast region thro
 ## Project Structure
 
 ```bash
-📦 gold-coast-ev-analysis/
+gold-coast-ev-analysis/
 ├── Gold Coast Electric Vehicles Data Analysis.ipynb  # Main notebook
 ├── dataset.csv (optional)                           # Original dataset if included
 ├── README.md                                        # Project documentation
